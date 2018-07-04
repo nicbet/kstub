@@ -2,6 +2,10 @@
 
 The Kubernetes manifest stub generator for the rest of us. Because copy and pasting from the Documentation, as well trying to remember the manifest specs are a waste of time and error-prone. This tool does not presume to be a Kubernetes CLI, but rather a simple fast generator for starting points of kubernetes manifests that you can further customize to your needs.
 
+<p align="center">
+    <img src="demo.svg">
+</p>
+
 ## Installation
 
 Run `go get github.com/nicbet/kstub`
