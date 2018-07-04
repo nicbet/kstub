@@ -12,14 +12,16 @@ Run `go get github.com/nicbet/kstub`
 KStub is a very fast generator for Kubernetes manifests
 
 Usage:
-  kstub [flags] [command]
+  kstub [flags] command
 
 Available Commands:
-  deployment  Generate a deployment manifest
   help        Help about any command
-  service     Generate a service manifest
   version     Print the version number of KStub
 
+  deployment  Generate a deployment manifest
+  service     Generate a service manifest
+  ingress     Generate a ingress manifest
+  
 Flags:
       --config string      /path/to/config.yml
   -h, --help               help for kstub
