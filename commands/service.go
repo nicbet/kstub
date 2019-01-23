@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	. "github.com/nicbet/kstub/types"
+	. "github.com/kuyio/kstub/types"
 	"github.com/spf13/cobra"
 	yaml "gopkg.in/yaml.v2"
 )

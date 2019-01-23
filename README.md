@@ -8,7 +8,7 @@ The Kubernetes manifest stub generator for the rest of us. Because copy and past
 
 ## Installation
 
-Run `go get github.com/nicbet/kstub`
+Run `go get github.com/kuyio/kstub`
 
 ## Usage
 
